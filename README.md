@@ -3,7 +3,7 @@
 Official implementation for
 <pre>
 <b>From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields</b>
-<a href="https://mkofinas.github.io/">Miltiadis Kofinas</a>*, <a href="https://samuelepapa.github.io/">Samuele Papa</a>, <a href="https://egavves.com/">Efstratios Gavves</a>
+<a href="https://mkofinas.github.io/">Miltiadis Kofinas</a>, <a href="https://samuelepapa.github.io/">Samuele Papa</a>, <a href="https://egavves.com/">Efstratios Gavves</a>
 <em>Preprint</em>
 <a href="https://arxiv.org/abs/2412.08731">https://arxiv.org/abs/2412.08731/</a>
 </pre>
